@@ -1,0 +1,8 @@
+pandas
+numpy
+pybaseball
+google-cloud-bigquery
+xgboost
+scikit-learn
+apache-airflow
+pandera
