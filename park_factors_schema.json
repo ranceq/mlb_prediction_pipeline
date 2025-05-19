@@ -1,0 +1,16 @@
+[
+    {"name":"year",      "type":"INTEGER"},
+    {"name":"park_id",   "type":"STRING"},
+    {"name":"basic_pf",  "type":"FLOAT"},
+    {"name":"pf_1b",     "type":"FLOAT"},
+    {"name":"pf_2b",     "type":"FLOAT"},
+    {"name":"pf_3b",     "type":"FLOAT"},
+    {"name":"pf_hr",     "type":"FLOAT"},
+    {"name":"pf_so",     "type":"FLOAT"},
+    {"name":"pf_bb",     "type":"FLOAT"},
+    {"name":"pf_gb",     "type":"FLOAT"},
+    {"name":"pf_fb",     "type":"FLOAT"},
+    {"name":"pf_ld",     "type":"FLOAT"},
+    {"name":"pf_iffb",   "type":"FLOAT"},
+    {"name":"pf_fip",    "type":"FLOAT"}
+  ]
